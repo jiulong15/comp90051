@@ -22,22 +22,22 @@ points = 0
 binwave = []
 
 for m in mg:
-      if (m.attrib["name"] == 'Offset'):
+    if (m.attrib["name"] == 'Offset'):
         offset = int(m.text)
-      elif (m.attrib["name"] == 'Gain'):
-            # GAIN is not correct in the XML for pressures
-            if (mg.get('name') == 'GE_ART'):
-                  gain = 0.25
-            elif (mg.get('name') == 'INVP1'):
-                  gain = 0.01
-            else:
-                  gain = float(m.text)
-            elif (m.attrib["name"] == 'Wave'):
-                  wave = m.text
-            elif (m.attrib["name"] == 'Hz'):
-                  hz = int(m.text)
-            elif (m.attrib["name"] == 'Points'):
-                  points = int(m.text)
+    elif (m.attrib["name"] == 'Gain'):
+        # GAIN is not correct in the XML for pressures
+        if (mg.get('name') == 'GE_ART'):
+            gain = 0.25
+        elif (mg.get('name') == 'INVP1'):
+            gain = 0.01
+        else:
+            gain = float(m.text)
+    elif (m.attrib["name"] == 'Wave'):
+        wave = m.text
+    elif (m.attrib["name"] == 'Hz'):
+        hz = int(m.text)
+    elif (m.attrib["name"] == 'Points'):
+        points = int(m.text)
 
 # Convert the base64 char string from the XML into
 # SmallInt (0-255) array
@@ -46,13 +46,13 @@ wave = base64.b64decode(wave)
 # Convert the SmallInt array into Int values
 # pairs of the wave array --> single int value
 for i in range (0,len(wave)-1,2):
-      t = (wave[i]) + wave[i+1]*256
-      # This is dense: left side CLEARS the 15th bit. Right side
-      #    substracts -32768 from the number if that bit was '1'
-      #    before it was cleared
-      # (t >> 15) grabs the last bit (shifts), leaving 1 or 0
-      t = set_bit(t,15,0) + (-32768)*(t >> 15)
+    t = (wave[i]) + wave[i+1]*256
+    # This is dense: left side CLEARS the 15th bit. Right side
+    #    substracts -32768 from the number if that bit was '1'
+    #    before it was cleared
+    # (t >> 15) grabs the last bit (shifts), leaving 1 or 0
+    t = set_bit(t,15,0) + (-32768)*(t >> 15)
 
-      # Adjust by gain & offset then add to bin array
-      t = t*gain + offset
-      binwave.append(t)
+    # Adjust by gain & offset then add to bin array
+    t = t*gain + offset
+    binwave.append(t)
