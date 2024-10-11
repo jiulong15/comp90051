@@ -1,5 +1,7 @@
 The code are mainly build based on the logics of machine learning
 
+github link: https://github.com/jiulong15/comp90051.git
+
 ## Firstly: Patient Labeling
 Identify and labeled the patients based on problem statment in the file patient_label.ipynb
 
@@ -24,8 +26,9 @@ the waveform_decode.ipynb are stored in the waveform_preprocessing folder. Store
    Build logistic regression model in LogicRegression.ipynb
 
    Build SVM model in SVM.ipynb
-   
+
    Build TabNet model in Tabnet.ipynb
+
 
 
 
