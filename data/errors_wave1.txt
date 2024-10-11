@@ -1,0 +1,906 @@
+all data have been filtered out for log_id 8c615f6805325d06 and pat_id e4f0d479b4f38b02, current index is 0
+all data have been filtered out for log_id 0ecf38ed306338f6 and pat_id 803158b92f707c79, current index is 1
+all data have been filtered out for log_id 04bc8c7cd226af94 and pat_id 4226e5867c24712b, current index is 5
+no file for pat_id 4e8242a8fee9d20d and log_id 49b960e2ab9e68b9, current index is 7
+all data have been filtered out for log_id cd02fa4a2f9ae70a and pat_id c77152790a66c4c4, current index is 10
+folder not found for eb1cb7ac1665b4dc and pat_id 9.91E+15, current index is 13
+all data have been filtered out for log_id 027f8977776b8fb3 and pat_id 161f8ef3c10f2a6f, current index is 15
+all data have been filtered out for log_id 8ccda71f0553b0ae and pat_id 507a45d1654d8044, current index is 16
+folder not found for fc3cc8ba69145a60 and pat_id 9.91E+15, current index is 19
+folder not found for 0fc93c17842acaed and pat_id 9.91E+15, current index is 20
+all data have been filtered out for log_id 1a71ddd6c177df1d and pat_id 4520773c12187063, current index is 30
+all data have been filtered out for log_id b0cc1f1eb5eb5ab6 and pat_id 901199f219acc57f, current index is 32
+all data have been filtered out for log_id 3ad277fa6cbbcd0c and pat_id 4520773c12187063, current index is 34
+no anesthesia time for log_id 818561d7a3355077 and pat_id 4520773c12187063
+all data have been filtered out for log_id 4964365af83a3f64 and pat_id 901199f219acc57f, current index is 38
+all data have been filtered out for log_id 93a2f139096bf9ee and pat_id 4520773c12187063, current index is 40
+all data have been filtered out for log_id 299d001dfa309f8a and pat_id 7ee440630ec152a6, current index is 44
+all data have been filtered out for log_id b8c3d6305e89107f and pat_id 4520773c12187063, current index is 47
+all data have been filtered out for log_id 5b353ae322f71fd5 and pat_id 7ee440630ec152a6, current index is 52
+all data have been filtered out for log_id fc340520704c7860 and pat_id 7ee440630ec152a6, current index is 53
+no anesthesia time for log_id 54add80e1c2bf762 and pat_id 7ee440630ec152a6
+no anesthesia time for log_id 22b9dd41c8406a1e and pat_id 7ee440630ec152a6
+no anesthesia time for log_id 4ce83b2fe239048f and pat_id 7ee440630ec152a6
+no anesthesia time for log_id 380b5cf0fe5bcc2a and pat_id bb75361a114cea8b
+all data have been filtered out for log_id fe6731d18ecb3414 and pat_id 860444887ca0215f, current index is 70
+no file for pat_id d5895af928d96e19 and log_id 3617cdf964cb9bd7, current index is 71
+no file for pat_id d5895af928d96e19 and log_id a3f94fe184d3a20f, current index is 75
+all data have been filtered out for log_id b394fa5722fd8f30 and pat_id 92e6a2a2646f7e84, current index is 76
+all data have been filtered out for log_id 9a76ea410c65e958 and pat_id 92e6a2a2646f7e84, current index is 78
+no file for pat_id d93cf98eadd3d23f and log_id 694ce29d48cdd59a, current index is 79
+no anesthesia time for log_id 8e7f51ab3d9961b8 and pat_id 8bf639b8018d942a
+all data have been filtered out for log_id 207d347cda7d46dd and pat_id 8bf639b8018d942a, current index is 83
+all data have been filtered out for log_id 0eebce06890fe971 and pat_id b8514717d698f62e, current index is 87
+all data have been filtered out for log_id 7b82ccc0c0802cef and pat_id b8514717d698f62e, current index is 93
+no file for pat_id d93cf98eadd3d23f and log_id 23abb63a394963e8, current index is 95
+all data have been filtered out for log_id ea1c37c630e1d03c and pat_id b8514717d698f62e, current index is 97
+no file for pat_id 1fe5bab260f88c4f and log_id 4dcba3f320740d68, current index is 98
+no anesthesia time for log_id ba539d573a41a4be and pat_id 566255f70ebf673f
+all data have been filtered out for log_id a6f873254e509342 and pat_id 6371c40bb59163c1, current index is 100
+no anesthesia time for log_id b7a13dd440e4ce23 and pat_id 566255f70ebf673f
+all data have been filtered out for log_id c6c1ca5ab896fea8 and pat_id 55d91902bceb418a, current index is 104
+all data have been filtered out for log_id 2b6e364aec8ea123 and pat_id 566255f70ebf673f, current index is 105
+all data have been filtered out for log_id 69f5dcf47c83b73e and pat_id f084007044dc81b0, current index is 107
+all data have been filtered out for log_id 9e7fee26bb11439a and pat_id f084007044dc81b0, current index is 108
+no file for pat_id 509fbcb15d261cf3 and log_id d05609e8a7c44d84, current index is 111
+no file for pat_id c32256df93938fc1 and log_id b6258c7ba9ca7a33, current index is 114
+all data have been filtered out for log_id e70df7001e561381 and pat_id 6b006cfdb24ff3dc, current index is 119
+no file for pat_id bd3b250941347517 and log_id e9c538709cf900a5, current index is 120
+no file for pat_id bd3b250941347517 and log_id 79265e78c3326045, current index is 121
+no anesthesia time for log_id c1b09e7ba2ebe60c and pat_id a831b346a6df6731
+all data have been filtered out for log_id a0a0f3a89b2e1c99 and pat_id 6b006cfdb24ff3dc, current index is 128
+all data have been filtered out for log_id f98a1bea0b2624c6 and pat_id 56524d7755da9372, current index is 132
+all data have been filtered out for log_id d8b6626de433dc17 and pat_id 2a93b5df6e881112, current index is 134
+no anesthesia time for log_id 0a3729cb14e188e6 and pat_id 9c597de5c52189aa
+no file for pat_id a8f7f2256b45141a and log_id fe1004c3357c37c6, current index is 145
+no anesthesia time for log_id e2985a10ea36d89b and pat_id af4c057feddfc253
+no anesthesia time for log_id b8079a96110248c1 and pat_id 902250375a6c030e
+no file for pat_id 8a141d5c3bd3206c and log_id cef768265db9f6dc, current index is 155
+all data have been filtered out for log_id 9c36ec20669367a8 and pat_id 8bf639b8018d942a, current index is 158
+all data have been filtered out for log_id dffe532b735e70ef and pat_id 2a93b5df6e881112, current index is 161
+all data have been filtered out for log_id 6a9e7cce585123b6 and pat_id af4c057feddfc253, current index is 162
+all data have been filtered out for log_id b31ffcd2113507a5 and pat_id af4c057feddfc253, current index is 163
+no file for pat_id c32256df93938fc1 and log_id 416b1febff7256b5, current index is 165
+no file for pat_id 8a141d5c3bd3206c and log_id 20a43aae4c7fb079, current index is 173
+no file for pat_id 8c77100639ad0f7a and log_id 2151126e6645bd5b, current index is 174
+all data have been filtered out for log_id dc7234c522b102e7 and pat_id ed360e7024f02152, current index is 178
+no file for pat_id 8c77100639ad0f7a and log_id 9b12757835091509, current index is 179
+no file for pat_id c8339556d3823c03 and log_id 5e5410788a3148a3, current index is 180
+no file for pat_id 76b73f2478f3a3fc and log_id 17d30e73783f6520, current index is 182
+no file for pat_id 142e4e16332e7463 and log_id 5a9c7dfd096d4f65, current index is 183
+no file for pat_id 6ea0b34ac7f6c7cd and log_id 572408dd47df63ba, current index is 184
+no file for pat_id 79d61e67fa34beea and log_id 998c112afe997b53, current index is 185
+no file for pat_id 5bbeea0529272006 and log_id 6216a19fdf135310, current index is 186
+no file for pat_id 3907751686d3db46 and log_id dd0dea2dabb9aee6, current index is 187
+all data have been filtered out for log_id 086a1f549a3285df and pat_id 87ed40ee112ffa87, current index is 188
+no file for pat_id 9aa40a09e16a947f and log_id b83bac70d707091b, current index is 189
+folder not found for 8856736d4de6ce20 and pat_id 0e6b23e6c4492b1c, current index is 190
+all data have been filtered out for log_id 7804d3bc0924a464 and pat_id db3730fb9e0c1394, current index is 191
+no file for pat_id a3921994d66881d7 and log_id f9394778eee08198, current index is 192
+no file for pat_id a3921994d66881d7 and log_id 049e4b890ad6f289, current index is 193
+all data have been filtered out for log_id 4d63e784004b9990 and pat_id db3730fb9e0c1394, current index is 194
+no file for pat_id a3921994d66881d7 and log_id 6a3ba2aa5c152d16, current index is 195
+no file for pat_id 18ff4179b530ebe6 and log_id aa732e5523de86f7, current index is 196
+no file for pat_id 64c5b06c9b0c374a and log_id 4090ac25f9c88c33, current index is 197
+no file for pat_id 18ff4179b530ebe6 and log_id a2d0e213fa80ddee, current index is 198
+all data have been filtered out for log_id eb5d4ae52c84188a and pat_id a33d1b2e950c7cc0, current index is 199
+no file for pat_id 64c5b06c9b0c374a and log_id cc8bc5fd46d24b4b, current index is 200
+no anesthesia time for log_id ed32a438da8c6ccf and pat_id 044d7b723feca023
+no file for pat_id 76b73f2478f3a3fc and log_id d79787d1d6d09f0e, current index is 202
+all data have been filtered out for log_id 3db053aa4a937a46 and pat_id 53ac7cc7b22a14cb, current index is 203
+no file for pat_id 5810edf34ac46fbb and log_id 3db1bc95bf15380a, current index is 204
+no file for pat_id 5c45487f90e10908 and log_id 0e60b972e141aa4c, current index is 205
+no file for pat_id f0ce948182d72084 and log_id ac128b72c16bca8c, current index is 206
+no file for pat_id ac699cc45ac2663a and log_id 8ac7274e82c511db, current index is 207
+no file for pat_id 0416f5e6d18df8ab and log_id ab3df6669c01649e, current index is 208
+no file for pat_id a3921994d66881d7 and log_id f9eed30383aeb97c, current index is 209
+no file for pat_id c34329dccb0c6782 and log_id c18f521ab88083f5, current index is 210
+no file for pat_id 5fffd62cb8d66d4a and log_id 39d0ae68be4f2cae, current index is 211
+no file for pat_id a3921994d66881d7 and log_id 51883d5a7432cfbe, current index is 212
+no file for pat_id 3340697606e5c451 and log_id 969f8355b08d6df1, current index is 213
+all data have been filtered out for log_id edbdf8d465016614 and pat_id a175b8c287da801e, current index is 214
+no file for pat_id 5fe05565a59e0bb6 and log_id 38b741a9d71d1b90, current index is 215
+no file for pat_id 3bbc428dce83b212 and log_id 88318d370054647b, current index is 216
+no file for pat_id e4940184fb830f62 and log_id cb4d6a5ac000fbb7, current index is 217
+all data have been filtered out for log_id b3f33ccabe689f5b and pat_id 8a4b16ba1d9dbbbb, current index is 218
+no file for pat_id 6fc3dec0dbb8e275 and log_id 981b7d0eb2c1a457, current index is 219
+no file for pat_id 10a9068774bb0196 and log_id 512ccbe9030b1448, current index is 220
+no file for pat_id ec85696c06d3f58f and log_id d2e6e6a26f08a37a, current index is 221
+no file for pat_id 9cd8a82bb77b17eb and log_id 38743a5e478abe8d, current index is 222
+no file for pat_id b9878cd048a80cb3 and log_id d86f61a8716afb05, current index is 223
+no file for pat_id 3e1b196e0e06c178 and log_id f8e985807e0776b7, current index is 224
+all data have been filtered out for log_id 6d10fe09b915efe7 and pat_id 9302ab7623e874f4, current index is 225
+no file for pat_id e60d620882660f83 and log_id 9ac1d151675201a1, current index is 226
+no file for pat_id 8c8078725df40643 and log_id 67195760f3fe15ca, current index is 227
+no file for pat_id feccc8330fd2dbe2 and log_id f6f763f87e83ab6f, current index is 228
+all data have been filtered out for log_id 6000448fb0615729 and pat_id d697707700e2b8dd, current index is 229
+no file for pat_id 8a141d5c3bd3206c and log_id 87dd4c3d5e0b4cab, current index is 230
+no file for pat_id f6e731979ce79138 and log_id 101eba57f25fdbb2, current index is 231
+no file for pat_id 7dfb420ba7a58ad9 and log_id 82a336fa4aa88b3e, current index is 232
+no file for pat_id bb817e380a518a8f and log_id d2fbe4f1fc1e83f2, current index is 233
+no file for pat_id f6e731979ce79138 and log_id 691b96984e993433, current index is 234
+all data have been filtered out for log_id 02bacea100f18de1 and pat_id afc14ca4a544af04, current index is 235
+no file for pat_id b9878cd048a80cb3 and log_id ed8460312694b8c2, current index is 236
+no file for pat_id 10a9068774bb0196 and log_id 64a073d1c5742179, current index is 237
+no file for pat_id 1696be28abf2a2dc and log_id c80080d86936d170, current index is 238
+no file for pat_id f366e471dcf17d39 and log_id f7f9b0b2a90c17f4, current index is 239
+no file for pat_id 6fc3dec0dbb8e275 and log_id 0b08dfa7a06e5079, current index is 240
+no file for pat_id b191ddf85a5010a3 and log_id 1b354b49574f5f19, current index is 241
+no file for pat_id 7dfb420ba7a58ad9 and log_id 28fd4ba27720e596, current index is 242
+no file for pat_id 9cd8a82bb77b17eb and log_id 4cd62efff8243a6e, current index is 243
+no file for pat_id 51fefa3548816dce and log_id 733eef87a2db9794, current index is 244
+all data have been filtered out for log_id a9d26ac9eaf486cc and pat_id 478a3cd8857cc055, current index is 245
+no file for pat_id 74649ce6e6b1d8e3 and log_id c0f415ab832aaf81, current index is 246
+all data have been filtered out for log_id ed380865fb3ca64b and pat_id 06120bdf599cfa7b, current index is 247
+no file for pat_id 9cd8a82bb77b17eb and log_id 5e622b71cac35c36, current index is 248
+no file for pat_id 0b5d3717c6734d14 and log_id 4647f44f3ae8fa2a, current index is 249
+no file for pat_id f6e731979ce79138 and log_id 894309c830f0cf0f, current index is 250
+no file for pat_id 54e2c7fddbbddca3 and log_id 022264a776be6ab2, current index is 251
+no file for pat_id b9878cd048a80cb3 and log_id 724af149124b2dc2, current index is 252
+no file for pat_id b5838d1cdf37c09c and log_id 7434a260e516e683, current index is 253
+no file for pat_id e14f1fb37345636d and log_id f2f337d29c2de12e, current index is 254
+no file for pat_id e1f55b9c00d6ed83 and log_id 3bc1f907ded15915, current index is 255
+no file for pat_id 8de432328742ccb5 and log_id 1583da3fedd15d18, current index is 256
+no file for pat_id 06b98758d1bda4b2 and log_id 3ed43b046096d0e8, current index is 257
+no file for pat_id f6e731979ce79138 and log_id 5b2b000d7bb1dc52, current index is 258
+no file for pat_id dc460084c1d9a08c and log_id fdb908f0e93de2d3, current index is 259
+no file for pat_id 87b76d0d914e13b9 and log_id c091ad354a3eeb8f, current index is 260
+no file for pat_id 1696be28abf2a2dc and log_id 5c3c8be3961c34f2, current index is 261
+no file for pat_id 177b542010be8017 and log_id 75fb1b5125da33be, current index is 262
+all data have been filtered out for log_id cbc252220447c841 and pat_id 478a3cd8857cc055, current index is 263
+no file for pat_id 10a9068774bb0196 and log_id d17944c364425592, current index is 264
+no file for pat_id a4cb63ee74b9f040 and log_id 5bfe8005b0af4ab1, current index is 265
+no file for pat_id b9878cd048a80cb3 and log_id 1d67538db042a7a1, current index is 266
+no file for pat_id 1a0d76d92c82a2e4 and log_id 55221bd604c19e62, current index is 267
+no file for pat_id 87b76d0d914e13b9 and log_id fc9a58f0adb4fdd6, current index is 268
+no file for pat_id 177b542010be8017 and log_id d368c2940ab9898f, current index is 269
+no file for pat_id 8de432328742ccb5 and log_id 9ced95514fd5e1a6, current index is 270
+no file for pat_id 1696be28abf2a2dc and log_id 9b3de6a93745ba91, current index is 271
+all data have been filtered out for log_id d0439de8f0735f0c and pat_id 06120bdf599cfa7b, current index is 272
+no file for pat_id b9878cd048a80cb3 and log_id 6d4bb8e9a46690c6, current index is 273
+no file for pat_id b4cb89b825e935e9 and log_id b9cfbcb69ce9ec0e, current index is 274
+no file for pat_id f6e731979ce79138 and log_id c8249dc3d0def58e, current index is 275
+no file for pat_id b9878cd048a80cb3 and log_id 7441b56d89b7acf8, current index is 276
+no file for pat_id 3717d38e20716eb6 and log_id a4f5baf1ac76fed8, current index is 277
+no file for pat_id 241eb6a87c7970e5 and log_id 3ee71bebaaac45c5, current index is 278
+no file for pat_id f6e731979ce79138 and log_id fe3f67d8dbd33f25, current index is 279
+no file for pat_id 1696be28abf2a2dc and log_id 641732847b906bfb, current index is 280
+no file for pat_id 1a0d76d92c82a2e4 and log_id a2b144a4ad662712, current index is 281
+no file for pat_id e8a734c08cc86ea6 and log_id e8475b0b68b00d5a, current index is 282
+no file for pat_id bb817e380a518a8f and log_id 0d5902b2068a5d28, current index is 283
+no file for pat_id b9aab02550aa5980 and log_id 0a7c98dfdd8bc4a3, current index is 284
+no file for pat_id 10a9068774bb0196 and log_id 8a5804d81bd2a72d, current index is 285
+no file for pat_id 1a0d76d92c82a2e4 and log_id 566ef3e5d782a314, current index is 286
+no file for pat_id df835218d34b0c51 and log_id 61459fddbfd4b227, current index is 287
+no file for pat_id b9878cd048a80cb3 and log_id c78dd6b1198361eb, current index is 288
+no file for pat_id 74649ce6e6b1d8e3 and log_id 6b0085d333250ab6, current index is 289
+no file for pat_id b5838d1cdf37c09c and log_id 0fab522159f4c69e, current index is 290
+no file for pat_id 4f484925d96b2fe9 and log_id 04eaa3addf9fb984, current index is 291
+no file for pat_id 9423a550d3c15d98 and log_id fe9324aa46382ff5, current index is 292
+no file for pat_id 190f982776767646 and log_id 6f139bc0c804693e, current index is 293
+no file for pat_id b5838d1cdf37c09c and log_id c5105e40a121ec67, current index is 294
+no file for pat_id f6e731979ce79138 and log_id d5d53cbfddadb2ec, current index is 295
+no file for pat_id b9878cd048a80cb3 and log_id 90587a77abea8f8c, current index is 296
+all data have been filtered out for log_id 60a14e9e8f6ec19e and pat_id 9302ab7623e874f4, current index is 297
+no file for pat_id fa8a2f415c9c2470 and log_id cc23baffeebaf823, current index is 298
+no file for pat_id b191ddf85a5010a3 and log_id b95efca618046eae, current index is 299
+no file for pat_id b9878cd048a80cb3 and log_id f35132f1803200a9, current index is 300
+all data have been filtered out for log_id fcfee2d3aab0809b and pat_id fc34e1716777e348, current index is 301
+no file for pat_id 1a0d76d92c82a2e4 and log_id be251935d8335093, current index is 302
+no file for pat_id feccc8330fd2dbe2 and log_id 066d3d75e1c36452, current index is 303
+all data have been filtered out for log_id 032a2f71d462dcd6 and pat_id ba876aafade055ff, current index is 304
+no file for pat_id f366e471dcf17d39 and log_id 8f1b1f91d2cd1e0f, current index is 305
+no file for pat_id 68303a671b27b726 and log_id 4e1366b7dc3066b6, current index is 306
+no file for pat_id feccc8330fd2dbe2 and log_id 0154bf65c2e2653c, current index is 307
+no file for pat_id 8de432328742ccb5 and log_id 578fc32bffe936c5, current index is 308
+no file for pat_id 51fefa3548816dce and log_id 63786be52003cb3a, current index is 309
+no file for pat_id b5838d1cdf37c09c and log_id 385d02f4df7e6d4d, current index is 310
+no file for pat_id 3e1b196e0e06c178 and log_id 5253fd7a3dadbb33, current index is 311
+no file for pat_id b9878cd048a80cb3 and log_id 01dd76707f1e037f, current index is 312
+no file for pat_id f366e471dcf17d39 and log_id 89a2917aef2d0ee5, current index is 313
+no file for pat_id b9878cd048a80cb3 and log_id ddf3f52a53176648, current index is 314
+no file for pat_id f6e731979ce79138 and log_id 846af615959bfd73, current index is 315
+no file for pat_id b9878cd048a80cb3 and log_id e4039fd54cd7cafb, current index is 316
+no file for pat_id f718c20e53669f76 and log_id 06995c1c9bbd0faf, current index is 317
+no file for pat_id b9878cd048a80cb3 and log_id 625293cfdb21942d, current index is 318
+no file for pat_id e14f1fb37345636d and log_id ffaf0d4ee71c511c, current index is 319
+no file for pat_id fe35770182d51885 and log_id 91a4099620f2e0b7, current index is 320
+no file for pat_id b9878cd048a80cb3 and log_id 7dfa49cc3b660513, current index is 321
+no file for pat_id 40ccdd078e5e22ff and log_id 47e980bef56d7663, current index is 322
+no file for pat_id 3e1b196e0e06c178 and log_id 24e7be91e506fc36, current index is 323
+no file for pat_id b9aab02550aa5980 and log_id 83fdcc8ef928f889, current index is 324
+no file for pat_id 1a0d76d92c82a2e4 and log_id b2bf5178b216dff9, current index is 325
+no file for pat_id 4f484925d96b2fe9 and log_id 06d49c64707434af, current index is 326
+no file for pat_id 7dfb420ba7a58ad9 and log_id 57c69f3dfa484156, current index is 327
+no file for pat_id b9878cd048a80cb3 and log_id d5f2443d26db6cab, current index is 328
+no file for pat_id 190f982776767646 and log_id b68f3163b6b499ef, current index is 329
+all data have been filtered out for log_id b113dab25a438d3e and pat_id 06120bdf599cfa7b, current index is 330
+no file for pat_id e14f1fb37345636d and log_id c3f6da9ad420e361, current index is 331
+no file for pat_id f366e471dcf17d39 and log_id 9015c1aae352ab72, current index is 332
+no file for pat_id 8de432328742ccb5 and log_id 33186a0520df3e1f, current index is 333
+no file for pat_id 3e1b196e0e06c178 and log_id 5a8d327a8f445aca, current index is 334
+no file for pat_id 14233146f8ff9e7d and log_id a317df84fc602812, current index is 335
+no file for pat_id 9cd8a82bb77b17eb and log_id 52ec149a7fc6eeba, current index is 336
+no file for pat_id 06b98758d1bda4b2 and log_id d3cad95de6c76aca, current index is 337
+no file for pat_id 7dfb420ba7a58ad9 and log_id 207c992e3353124b, current index is 338
+no file for pat_id b5838d1cdf37c09c and log_id 7e8c5df9f1fbd34b, current index is 339
+no file for pat_id b4cb89b825e935e9 and log_id c665ae92fd1d2efb, current index is 340
+no file for pat_id 0b5d3717c6734d14 and log_id 61b00bfb8d1ea4ec, current index is 341
+no file for pat_id 1a0d76d92c82a2e4 and log_id a7ff644f99bb2f2d, current index is 342
+no file for pat_id a4cb63ee74b9f040 and log_id eba4f06f4253285d, current index is 343
+no file for pat_id 1696be28abf2a2dc and log_id d92afc377d996c1a, current index is 344
+no file for pat_id b9aab02550aa5980 and log_id 2c465f01f53da57b, current index is 345
+all data have been filtered out for log_id 5dfaf8ac6381e0db and pat_id fc34e1716777e348, current index is 346
+no file for pat_id 44a165928630a3a7 and log_id eb401383e5774847, current index is 347
+no file for pat_id 10a9068774bb0196 and log_id 7a32d5a6fc9f68f0, current index is 348
+all data have been filtered out for log_id 93e8d9cb23291635 and pat_id 478a3cd8857cc055, current index is 349
+no file for pat_id 1696be28abf2a2dc and log_id 92f4b379572d147d, current index is 350
+no file for pat_id b9878cd048a80cb3 and log_id 3bb7ad0bc52c5bf2, current index is 351
+no file for pat_id b9878cd048a80cb3 and log_id 2e04994d5cc56ef6, current index is 352
+all data have been filtered out for log_id 58b519eb13de9cab and pat_id 06120bdf599cfa7b, current index is 353
+no file for pat_id b9878cd048a80cb3 and log_id 907038efc9fe4db0, current index is 354
+no file for pat_id df835218d34b0c51 and log_id 6a233d2584a2592b, current index is 355
+no file for pat_id 6127aa0d742f3e0f and log_id c2d040d01dcf2c65, current index is 356
+no file for pat_id 7dfb420ba7a58ad9 and log_id f2a267e8460986ff, current index is 357
+no file for pat_id 90fbd7d77faf07c8 and log_id 45c806a427fd82cd, current index is 358
+no file for pat_id 7027462a820b1571 and log_id f558fc26e798b4cb, current index is 359
+no file for pat_id 1696be28abf2a2dc and log_id e177a59f9b3f7fdf, current index is 360
+no file for pat_id 72b62deffe795fce and log_id fc9d1351370ad8c6, current index is 361
+no file for pat_id f6e731979ce79138 and log_id 7ebd92e52e962872, current index is 362
+no file for pat_id 76f7373449494048 and log_id 362de9d472e8c606, current index is 363
+no file for pat_id 7dfb420ba7a58ad9 and log_id e4c83f4c3fa11856, current index is 364
+no file for pat_id df835218d34b0c51 and log_id a0f61f515340b11e, current index is 365
+no file for pat_id f2f7345eae0599a6 and log_id 032f0d1ef99edb78, current index is 366
+no file for pat_id f6e731979ce79138 and log_id 73d703a860281cea, current index is 367
+no file for pat_id b191ddf85a5010a3 and log_id 1e1cbf4391cb2c78, current index is 368
+no file for pat_id feccc8330fd2dbe2 and log_id 4bd39d9d7a4adb7d, current index is 369
+no file for pat_id 7dfb420ba7a58ad9 and log_id 481d9f12243007de, current index is 370
+no file for pat_id 90fbd7d77faf07c8 and log_id 0db848c3fafa36d7, current index is 371
+no file for pat_id 8ef6ad5391d3cc9e and log_id 418df8b3f7a0939b, current index is 372
+no file for pat_id b4cb89b825e935e9 and log_id 232c8c54afd013d0, current index is 373
+no file for pat_id 06b98758d1bda4b2 and log_id c19b0024fdb14869, current index is 374
+no file for pat_id 1a0d76d92c82a2e4 and log_id da51bbbe44b985b2, current index is 375
+no file for pat_id 06b98758d1bda4b2 and log_id 51e5c1700dc9e8fe, current index is 376
+no file for pat_id b5838d1cdf37c09c and log_id 79c77b4e9f03fb5c, current index is 377
+no file for pat_id 9423a550d3c15d98 and log_id 51c61005a684d0e8, current index is 378
+no file for pat_id 51fefa3548816dce and log_id 31312d2d64e0af04, current index is 379
+no file for pat_id 06b98758d1bda4b2 and log_id bc69498d8f15218f, current index is 380
+no file for pat_id 72b62deffe795fce and log_id b1bff17635bcf94e, current index is 381
+no file for pat_id 7dfb420ba7a58ad9 and log_id 6aff92523c6c3c59, current index is 382
+no file for pat_id 1696be28abf2a2dc and log_id 673bc83cb12984f0, current index is 383
+no file for pat_id b9aab02550aa5980 and log_id 667e690ae0be308a, current index is 384
+no file for pat_id b191ddf85a5010a3 and log_id 5c79ec2d8edbc934, current index is 385
+no file for pat_id b5838d1cdf37c09c and log_id ae89c7b88b423c68, current index is 386
+no file for pat_id b9878cd048a80cb3 and log_id 24bccde9e458b3a0, current index is 387
+no file for pat_id 9423a550d3c15d98 and log_id beeb563aad443d40, current index is 388
+no file for pat_id 4f484925d96b2fe9 and log_id 5495e8123da9f7e1, current index is 389
+no file for pat_id e1f55b9c00d6ed83 and log_id 474b9807fd9a8f28, current index is 390
+no file for pat_id 7dfb420ba7a58ad9 and log_id 381c4618dca4882f, current index is 391
+no file for pat_id fa8a2f415c9c2470 and log_id 83c495ee97052b68, current index is 392
+no file for pat_id 456c4dbeefbe9575 and log_id 4e1863ff34b71db0, current index is 393
+no file for pat_id 0b5d3717c6734d14 and log_id 2ceee475eb32b69c, current index is 394
+all data have been filtered out for log_id 8116aa4a100ceee8 and pat_id 478a3cd8857cc055, current index is 395
+no file for pat_id b9878cd048a80cb3 and log_id cecd35a626c55d0c, current index is 396
+no file for pat_id b5838d1cdf37c09c and log_id c34b85c0cf941d8a, current index is 397
+no file for pat_id d1d7b9ddc4962cdf and log_id 4b6aabaf62e85c0a, current index is 402
+no file for pat_id b8e6906d80d4e878 and log_id 87a876ed178ea10b, current index is 409
+folder not found for c302b060b76e0356 and pat_id 0cf9c270cf92311b, current index is 417
+no file for pat_id 33fbfdc61c6e1e0d and log_id aac03c2ac6608746, current index is 418
+folder not found for cc01d0a049d5ff40 and pat_id 1.71E+15, current index is 431
+no file for pat_id 688f09baa792868c and log_id e5cb4a1860c6398c, current index is 451
+no file for pat_id 1687df9dadef2369 and log_id 0044f08f3561faf6, current index is 454
+no file for pat_id 6cd7630a68f8b78c and log_id bc4aafbf6115cc29, current index is 455
+no file for pat_id b08199b80e309200 and log_id 4e0abbea67a1c722, current index is 461
+no file for pat_id 7030d6edd8cc2d04 and log_id 7055fcea8d58d5bf, current index is 462
+no anesthesia time for log_id a1dcfaaed410c587 and pat_id 51267ad0ff254053
+no file for pat_id b2af6b1ab5677229 and log_id 87bd8528c4df7956, current index is 466
+no file for pat_id 4485999e1c7b2a82 and log_id e2f798802a88c843, current index is 474
+no file for pat_id e266240c37cd8145 and log_id 9f2b0523bbcec3f7, current index is 476
+folder not found for f24832538dff2220 and pat_id 0db05afdd6074d3a, current index is 477
+no file for pat_id 1b37e1235e774ed7 and log_id 0180b5b356ac07e4, current index is 491
+no file for pat_id 9a323e3b2eaab62b and log_id 46f3bd36d7c74545, current index is 493
+all data have been filtered out for log_id 413e244d3cceafa0 and pat_id 7dd829efb2c876c6, current index is 494
+no file for pat_id 027870dcb448c4f6 and log_id dfef33d3775d09c1, current index is 500
+no file for pat_id 2ac4995f2b9c2926 and log_id 37f228c746643c1d, current index is 511
+no file for pat_id a82b86369610b121 and log_id c15d8724a47d36fe, current index is 516
+no file for pat_id a185b017a750b2ca and log_id 7da2b1cb09e44d35, current index is 517
+no file for pat_id 44a1d56f2e6cd785 and log_id b098bdad61fa5111, current index is 523
+no file for pat_id 2cf99c68c3deb6d1 and log_id d5999474028158f7, current index is 527
+no file for pat_id 0b54a3e71cf4646c and log_id c74b0277922924d7, current index is 529
+no file for pat_id 0a9625486e898666 and log_id 1fb7609cbd80418a, current index is 531
+no file for pat_id 7d72f6f67b80d768 and log_id bc830a874182d962, current index is 538
+no file for pat_id ea3a0a42d093516d and log_id 1a9eb44624a8ccd6, current index is 540
+no file for pat_id ce60135b11fb89f2 and log_id e2eac23844eb7ccf, current index is 544
+no anesthesia time for log_id 7a5ed955cc1ddaa6 and pat_id 3b3da4340ec9cd5a
+no file for pat_id c968dfbd2609c8cb and log_id 76437db4d41b1d37, current index is 550
+no anesthesia time for log_id 656616155f7acb5b and pat_id 2da7d596f720608b
+folder not found for 09b388840f02dcf6 and pat_id 0db1fec639de0041, current index is 560
+no file for pat_id 7571106fd68b1f29 and log_id db3fd4bedbd2c682, current index is 562
+no file for pat_id 1682f552c22864f5 and log_id 8690e323ddd03ddd, current index is 564
+no file for pat_id 23156f3bd0c5abee and log_id 540be7a51446d833, current index is 565
+all data have been filtered out for log_id a5f12c8927517a82 and pat_id d07031284c713414, current index is 566
+no anesthesia time for log_id 645089c148226be9 and pat_id 5f3ff652638f6147
+no file for pat_id e0f3d9a27f497c07 and log_id acc8ed5b156af958, current index is 575
+folder not found for 8e4419467c9257a4 and pat_id 0c17c5022980f4df, current index is 576
+folder not found for 10d513fcf717b0af and pat_id 0c17c5022980f4df, current index is 579
+folder not found for e23a7c049d30a307 and pat_id 0c17c5022980f4df, current index is 581
+all data have been filtered out for log_id aa9683478da62f9b and pat_id 7f8b981b669388b8, current index is 582
+no file for pat_id 784f808abb1769a5 and log_id facf7f7cb7ce4742, current index is 590
+no file for pat_id 19a10913a5ec09d5 and log_id cc67706f689f63c3, current index is 591
+no file for pat_id dbbd1322c81abd5b and log_id c07bd6b0705c653e, current index is 593
+no file for pat_id cd5367b506bba0aa and log_id 7320dffcc5e9298f, current index is 597
+no file for pat_id 0a70a275dffbeb2c and log_id 5f7172ef8138d633, current index is 599
+no anesthesia time for log_id 403c9494018c9ad3 and pat_id d4b01bc8d3618b7e
+no file for pat_id 8e62bac2ab03f9a0 and log_id 8a5954c8066bc102, current index is 609
+no file for pat_id 4f7895e5a158108c and log_id 7540ea479d6a26aa, current index is 612
+all data have been filtered out for log_id 7efce53ae6002466 and pat_id b40bd0cda75834de, current index is 613
+no file for pat_id b2af6b1ab5677229 and log_id 4f44c1406e1db32e, current index is 614
+no file for pat_id aade0f7afd989450 and log_id 2529ca2006a3082d, current index is 625
+no anesthesia time for log_id d1655bfeb9d8032a and pat_id a74a0b46a45a8963
+folder not found for 1a835442162ea1f9 and pat_id 0ef3dede9b3f478e, current index is 628
+no file for pat_id a6b0bfc08da3393d and log_id d2fda9659738fb2a, current index is 636
+no file for pat_id 7df31ceea1005ac2 and log_id b33ccb01d70b2cbc, current index is 639
+no anesthesia time for log_id d528122254d7d110 and pat_id 5c29fed19a323158
+no file for pat_id aade0f7afd989450 and log_id 14d90e323d82879b, current index is 641
+all data have been filtered out for log_id b87c97fb922e286e and pat_id 967402264742a8cd, current index is 642
+all data have been filtered out for log_id 361a811e947a31ab and pat_id 10bb66936c623ef8, current index is 648
+all data have been filtered out for log_id 21757a9f3c69f57c and pat_id 1a60a881b7b6b277, current index is 653
+no anesthesia time for log_id 6345098fd256eff2 and pat_id 1a60a881b7b6b277
+all data have been filtered out for log_id 1ec9ee18d62cda72 and pat_id 6e61abbb473a5886, current index is 655
+no file for pat_id db8cab8a17ac06ed and log_id e53dd30090c0c02e, current index is 661
+no anesthesia time for log_id b9250b94d1fbaba8 and pat_id 36f3a4812b7da01d
+no file for pat_id 75453ca81a0774a8 and log_id eb5fc96c522919a7, current index is 668
+all data have been filtered out for log_id f7f5f890802a1501 and pat_id c5ee40333027c298, current index is 678
+all data have been filtered out for log_id bcdd9ec2021b2fde and pat_id f36f4296f9bb9223, current index is 679
+no file for pat_id 49a9ec9814f7a801 and log_id c8b83e8474222eb8, current index is 695
+no anesthesia time for log_id f169e5fbcd92554a and pat_id 1233044f5abed180
+no anesthesia time for log_id b6eac0fca22e9644 and pat_id 79679b68b4e0237b
+folder not found for a3ffb71d472daa09 and pat_id 0c17c5022980f4df, current index is 707
+no file for pat_id 8f8d594102f6c8e8 and log_id bd681b5a43200f75, current index is 709
+no file for pat_id acbac9d6ddbc808c and log_id 2ea446193ea86e07, current index is 712
+no anesthesia time for log_id f503f6277e945039 and pat_id 79679b68b4e0237b
+no anesthesia time for log_id 8add0c79bb0f3145 and pat_id 079f3d90a0f9d1fd
+all data have been filtered out for log_id 75e26a6c51fe95c0 and pat_id f15b375fad2948cf, current index is 718
+no file for pat_id 49a9ec9814f7a801 and log_id cc1bd823dc9403f0, current index is 719
+all data have been filtered out for log_id 3d53e0766bc1f876 and pat_id 1233044f5abed180, current index is 722
+no file for pat_id 3532c2b112796f23 and log_id 9a4d1876d7ab18e4, current index is 724
+all data have been filtered out for log_id 97a400b6ba00b6b1 and pat_id f04e91508d3f08bc, current index is 727
+no file for pat_id fc4a154ac11f5020 and log_id c7a2da06207706e0, current index is 732
+no file for pat_id 2bab555650594015 and log_id 73f989fbbf949bc5, current index is 737
+no file for pat_id bdd04afb5e61c9fa and log_id 66562e916342a468, current index is 738
+no file for pat_id 1925b3cddbfa6852 and log_id 478f6df48b32bd63, current index is 739
+all data have been filtered out for log_id b47ba966a4fb1174 and pat_id 9c2c617b859bc18e, current index is 740
+no anesthesia time for log_id ae49af7a7640ee58 and pat_id dedbfabfb3fbb381
+no file for pat_id 5502d0481bf9a782 and log_id 34510e819597fb2d, current index is 751
+all data have been filtered out for log_id f338eb676f765e17 and pat_id ebf3d59a3da4ebeb, current index is 753
+no file for pat_id 688f09baa792868c and log_id aa19fdc9ddc08c08, current index is 764
+folder not found for 9e2be2aa0bf17355 and pat_id 0db1fec639de0041, current index is 771
+no anesthesia time for log_id 5d3fa7cca5d58fc3 and pat_id 6e1c0b81aecd45a4
+all data have been filtered out for log_id 70e130b56383c596 and pat_id 696b7cda01cb9f6c, current index is 777
+all data have been filtered out for log_id 6d3cf45db5089246 and pat_id 43c7943ea8482704, current index is 780
+no anesthesia time for log_id 363d635003809eef and pat_id 6e1c0b81aecd45a4
+folder not found for 1415254a42540046 and pat_id 0c13e30c37e3fedf, current index is 784
+no anesthesia time for log_id 8.41E+15 and pat_id 7085412794677e4c
+error processing file pat_id 6613d2735ecb1a30and log_ide51ef11b6088a652: junk after document element: line 2, column 1855281
+all data have been filtered out for log_id 88eb821547c5e0b3 and pat_id f173a5e35a359acc, current index is 790
+all data have been filtered out for log_id 07ae03db6071f603 and pat_id 4f00e0e9a6bc3b81, current index is 791
+all data have been filtered out for log_id f2066df358e58c56 and pat_id 01352e8c46640e81, current index is 801
+folder not found for a2116f44a533db06 and pat_id 0efd83e78c8d2008, current index is 802
+folder not found for fe786d8d74bfef60 and pat_id 0efd83e78c8d2008, current index is 803
+no file for pat_id 5c73a906d5351e51 and log_id 4d9de6483a0df5d2, current index is 806
+no file for pat_id 781fd8c96ca11d5e and log_id 2e58f7024c96338e, current index is 809
+no anesthesia time for log_id a251dea566465f36 and pat_id 5f3ff652638f6147
+no file for pat_id e8cb3ec5572e7eef and log_id 28fb20401adc47d4, current index is 817
+no file for pat_id a5e12312060a1587 and log_id b1ca87d14632244d, current index is 829
+no file for pat_id 55d69be0765b23f3 and log_id 1e3484eb0e934c4c, current index is 834
+all data have been filtered out for log_id d39c3826dddd40de and pat_id e90f95299f417c5c, current index is 838
+all data have been filtered out for log_id 53c19af41e415141 and pat_id f7d68236262cb0d1, current index is 841
+no file for pat_id 47cb7baebd217f8e and log_id 82a8b6601e202ae4, current index is 842
+no file for pat_id 8dad9dbb21d46e27 and log_id 8d94e84e96655b18, current index is 843
+all data have been filtered out for log_id 9a2519dd3569f892 and pat_id b42a5f8ae7f6a90b, current index is 844
+folder not found for 2990804617dcf956 and pat_id 0cf9c270cf92311b, current index is 852
+all data have been filtered out for log_id 82be46e259b363f2 and pat_id e90f95299f417c5c, current index is 860
+no anesthesia time for log_id 2b7b585a598d2715 and pat_id cb8cde6574adb40e
+no file for pat_id 0a8cca771e7717d0 and log_id 8e57ec8dfd62904a, current index is 868
+no file for pat_id 60163ef170be2625 and log_id 6cf8b40d20d7e7e3, current index is 872
+no file for pat_id 60163ef170be2625 and log_id 01b736bbef51b0c4, current index is 874
+no file for pat_id eb35a357ed6c0564 and log_id 0531f1499b072dcd, current index is 875
+no file for pat_id 0464d1466a38ddbb and log_id 2d58f6946efc35e1, current index is 882
+no file for pat_id 8f451a6ad9158f18 and log_id d1a7a2f49a100d1a, current index is 888
+all data have been filtered out for log_id fa53647dea50292e and pat_id e6a1e7f437df8eab, current index is 889
+no file for pat_id fda74b4397ea8c3f and log_id c1965e78bc66527d, current index is 895
+no file for pat_id 96a3ad625b38b322 and log_id 3305f9b81f422197, current index is 896
+no file for pat_id 70f95ad5587270ca and log_id a416ba3e9aee0a81, current index is 900
+no anesthesia time for log_id fd263e9a96356c94 and pat_id 5f1cb91a818ae998
+no file for pat_id 3768b4ef115e7fc6 and log_id 9beb3257cb5462cb, current index is 904
+no file for pat_id 8a7b6dd5cbec57c5 and log_id d0fc6f8ae45b566e, current index is 909
+no file for pat_id ae78b97b81b703d0 and log_id 9981ac66b84c6cfa, current index is 916
+no file for pat_id bef73e78049450fd and log_id eedd35366fcce2f2, current index is 919
+no file for pat_id 4fe8cb0b93864159 and log_id 9400c845cfe83f06, current index is 926
+no file for pat_id b806bfeba9999c8a and log_id 1abeb737d3969f29, current index is 927
+no file for pat_id 7a573bdbbf152652 and log_id 143ce2e7313bc0bd, current index is 929
+no file for pat_id 3037e4e2acc33ea7 and log_id 7c8a5ca13a0c9342, current index is 931
+no anesthesia time for log_id b042047025c81f10 and pat_id 79af3b856a2e90ab
+no file for pat_id 2d0009c86a7d5344 and log_id 19df61069b54c314, current index is 946
+no file for pat_id 8451e7ea13d646d3 and log_id 6d73f21abdb6404b, current index is 948
+no file for pat_id 7e3032b29bf3576e and log_id 74738c8c59df6701, current index is 957
+all data have been filtered out for log_id c09755daa99c249a and pat_id b8c371fe03028d32, current index is 958
+no anesthesia time for log_id ff5c0ba0edf25cf2 and pat_id bddee77aa4e46c98
+no file for pat_id ca31e67b2331535c and log_id 0f8668ff39f9d381, current index is 979
+no anesthesia time for log_id e73d455601a318c4 and pat_id a68a66dfe28236db
+no file for pat_id 3ffe4bbe3702d755 and log_id 4b6f473e4105a834, current index is 987
+no file for pat_id 7b79a7eeef4490ac and log_id b037eb637b609f9b, current index is 989
+all data have been filtered out for log_id 2bb68444f38c039c and pat_id ab9ea987d2b3b403, current index is 990
+no file for pat_id 8d08ac6dbf2348ae and log_id 8bb01721612eedf2, current index is 991
+no file for pat_id 8d08ac6dbf2348ae and log_id 615cf26470a040fa, current index is 993
+no file for pat_id 40eeb6c033bf24ca and log_id 62868973ef606eb5, current index is 995
+no file for pat_id 8f34eebeed8bcff4 and log_id f3b93b20ea163cbc, current index is 999
+no file for pat_id 38af21ad90fedddd and log_id 7792a54989cb9493, current index is 1001
+no file for pat_id 8da151fa14ca744e and log_id 76ba4da219160a54, current index is 1003
+no file for pat_id 8a9e328a55b1652f and log_id 5b21164de61eb3cf, current index is 1005
+no file for pat_id 95354344c6210004 and log_id b6097b5b7be661f9, current index is 1006
+no file for pat_id 6ec5aa8c7d6c527a and log_id 6ec9be0a5bf9dce4, current index is 1007
+all data have been filtered out for log_id 4c5fdfcde9b9addc and pat_id 81cae2a1f3083417, current index is 1009
+no file for pat_id a426e8f2b1cdbf52 and log_id fcdb665f4d01eb5b, current index is 1015
+no file for pat_id 326e17abd2dd3f67 and log_id 9998c0fb222014d2, current index is 1016
+no file for pat_id 2eef6580e192b2f3 and log_id 7b9743e2cfe82446, current index is 1017
+all data have been filtered out for log_id c518fcac64779561 and pat_id d32484804689fd4e, current index is 1018
+no file for pat_id afdab6b5af62eb74 and log_id 27c224e97937548c, current index is 1019
+no file for pat_id 1cee673dbbef9216 and log_id 4d8f8d47f829a08d, current index is 1020
+no file for pat_id 858fbb5b5207f75c and log_id b0ec9874d192b19c, current index is 1023
+no file for pat_id 7755a1056fa5524d and log_id 918b08ab4e9d382b, current index is 1030
+no file for pat_id 79e2cee5e7c8ee6d and log_id d16eba166756d1d2, current index is 1032
+no file for pat_id a0c3e30cb8ec2993 and log_id 08d66cd1516f71f3, current index is 1034
+no file for pat_id ee0bddf15df2177b and log_id 9906c32f57ec7869, current index is 1035
+no file for pat_id 0a4febac71b76a5e and log_id f795fe71b09904df, current index is 1037
+no file for pat_id 5e1ab97a5d451452 and log_id a5d9a8deb80a2ea6, current index is 1039
+no file for pat_id c41fc96ffef4a51f and log_id 2c90a3d096831d12, current index is 1048
+no file for pat_id c16a460dfb1a5777 and log_id a3d343fe51cd2cad, current index is 1049
+no anesthesia time for log_id ad4f8b2e1299f16a and pat_id db8a71fbd48e2386
+no file for pat_id b51b839a679b20ef and log_id 66dd87122596b0dc, current index is 1056
+no file for pat_id c1fc39305fffed75 and log_id ad5d7d8efd5bfdf6, current index is 1062
+no file for pat_id eb1611eae759b8c0 and log_id bf2d5e090bf04112, current index is 1065
+no file for pat_id e57dd9e7d35c1dc1 and log_id d497f5a8e268f2aa, current index is 1066
+no file for pat_id 7e6de4c9af691980 and log_id 2497e3b3d0e7a93b, current index is 1067
+no file for pat_id 5bc1f71324c56931 and log_id 3a5b9e7dc1e9a813, current index is 1071
+no file for pat_id e974892b39e7d67b and log_id 56912b160a419170, current index is 1072
+no anesthesia time for log_id d7be14128c4b396a and pat_id c6435838bf070519
+no file for pat_id 865f279a669526c4 and log_id abb7c5f2a2c0a8db, current index is 1082
+no file for pat_id 99526f2cc6ee56df and log_id ed836e9c3649d92f, current index is 1085
+no anesthesia time for log_id da7e4388827e48a9 and pat_id 251f543cd7ddadd8
+no anesthesia time for log_id 37a1655f383d60e2 and pat_id 841931efba9ffb8d
+no file for pat_id cb47bc726da84a10 and log_id fa277c8e7186ade8, current index is 1092
+no file for pat_id d0804a88f3f77e28 and log_id 987d39c52bb02bd7, current index is 1097
+no file for pat_id 1827ca082a103fc2 and log_id 422da0579724e3fe, current index is 1099
+no file for pat_id 6fe1521624efdc0d and log_id 20b3e567ac66335c, current index is 1101
+folder not found for c501efdb2f976854 and pat_id 0ea9db08e179ea91, current index is 1103
+no file for pat_id d5c3992d5c458d1b and log_id b5e60fdad4b997f7, current index is 1105
+no file for pat_id 3778814d9d121225 and log_id 72733b8c87e08944, current index is 1113
+no file for pat_id 467856815d8dc1fe and log_id 22a53411ab93241b, current index is 1119
+no file for pat_id 7debc09ddb614ec5 and log_id ffd11a243a46841a, current index is 1120
+no file for pat_id ceb94be559fd493f and log_id 8397a63fcbd46c7d, current index is 1121
+no file for pat_id 47e6d56683da0dc2 and log_id c82e9d4c48746e02, current index is 1122
+no file for pat_id 5e1ab97a5d451452 and log_id b01364b331719bd7, current index is 1138
+no file for pat_id 19d2719bf1360ff1 and log_id 284f5b40385d3e89, current index is 1147
+no file for pat_id a8b151e5b20b94e4 and log_id 8fb26526c3795f2c, current index is 1150
+no file for pat_id 50b5498eed857397 and log_id c2c8682a6cd7ad8a, current index is 1154
+no file for pat_id a02daa114be67c88 and log_id 1e572b17f793e3c6, current index is 1155
+no anesthesia time for log_id 3062e9b8f555abe3 and pat_id 249ecd79f0d42292
+no file for pat_id 8631bf71b64fe222 and log_id 723172e5fa88804a, current index is 1167
+no file for pat_id 0aebfdf12a450454 and log_id a1b4115044360d92, current index is 1171
+no file for pat_id 9511f77760c8a8f3 and log_id 810417348f026117, current index is 1173
+no file for pat_id 5d07293b0df312c8 and log_id 7c67a155a6837789, current index is 1175
+no file for pat_id 62d43c22dc43bdeb and log_id af21b440dd775e97, current index is 1176
+no file for pat_id b73714192423154a and log_id 219d1f40e8fac0e9, current index is 1177
+no file for pat_id 03c463a60470a236 and log_id e5c77c60f1b7033b, current index is 1179
+no anesthesia time for log_id db1a101c50fe226f and pat_id 5df47debe61ae7a8
+no file for pat_id d3f0b3b0f2b81b40 and log_id 75931a04498d6bc7, current index is 1184
+no file for pat_id f558237be5bb26dd and log_id 5943dd82f439226d, current index is 1188
+no file for pat_id 7044e5320388c0e3 and log_id 98480433a192a6e2, current index is 1190
+no file for pat_id 4b32607253f633be and log_id 9ffd24b80c7fdcef, current index is 1192
+no file for pat_id 4f036d6da9d5ee16 and log_id bee57e116645d637, current index is 1194
+no file for pat_id 47a5a0c82a5823c5 and log_id 3966f593c2c568fa, current index is 1195
+no file for pat_id 61c1d8bb1f8bb33e and log_id 3eec38cfa404f2d0, current index is 1200
+no file for pat_id 353a7c7b1f3fc739 and log_id 93a49ec91d531825, current index is 1201
+no file for pat_id 98cd1df534e7fdbd and log_id b500c4e5ccd79637, current index is 1202
+no file for pat_id 5093474daaaac613 and log_id a3120e74414121fa, current index is 1203
+no file for pat_id e409e36d3f4d9d9a and log_id e53b4aed4361ec12, current index is 1204
+no file for pat_id 3d785ce7e2daaee3 and log_id d6877922de30ae99, current index is 1205
+no file for pat_id 83616a9b0046a104 and log_id 74d3f1016aa34b47, current index is 1206
+no file for pat_id 01abe55a5f7afe97 and log_id c7fbfe0d7d33e0bd, current index is 1207
+no file for pat_id f4b97dab18f278d2 and log_id 4647ae6867ad9c7c, current index is 1208
+no file for pat_id 1afdee1b9c0583be and log_id 73933221d7ba3938, current index is 1209
+no file for pat_id 9addb9ebc0e18154 and log_id 75513bc45138d535, current index is 1210
+no file for pat_id f0d80a402b13264a and log_id b11337edf6776ec5, current index is 1211
+no file for pat_id bf67804d3a24c115 and log_id 542db3fe1505e159, current index is 1212
+no file for pat_id 79e2cee5e7c8ee6d and log_id b3c17813e06a30f9, current index is 1213
+no file for pat_id e3a234e614324477 and log_id 69f9e4ec4d21debc, current index is 1214
+no file for pat_id d4a1f1fea5c47f02 and log_id 02ad63b2ead3001b, current index is 1215
+no file for pat_id 51e2157ebf8dbbd1 and log_id d4699f2ce9f15b75, current index is 1216
+no file for pat_id 35436013e43525cb and log_id f1d3447af23e2cb2, current index is 1217
+no file for pat_id e23185842658412d and log_id f3bada707a6db017, current index is 1218
+no file for pat_id 9a35b9aaf1deaa4a and log_id 03ccf7104ac35d02, current index is 1219
+all data have been filtered out for log_id 8.39E+15 and pat_id cd1bd9796d3722dd, current index is 1220
+no file for pat_id 1f621f070a470dba and log_id d04cabfb10eea01e, current index is 1221
+no file for pat_id 2ce11a92aa27e672 and log_id c523d11661b70418, current index is 1222
+no file for pat_id f9002dc2aafa0248 and log_id f7dedf43b5a0e539, current index is 1223
+no file for pat_id b96aa593a360e90d and log_id b49ec9e228d4d8bd, current index is 1224
+no file for pat_id a868b13a486f71ee and log_id 1d6995ae9a8fe6ff, current index is 1225
+no file for pat_id c45be60cb3400edf and log_id 864f9a9436749072, current index is 1226
+no file for pat_id 502afab13ff5901a and log_id 6f369380d0113fca, current index is 1227
+no file for pat_id 3bce82a8e450469f and log_id 8.40E+15, current index is 1228
+no file for pat_id d4328fab41b6deff and log_id 71e2723301179a24, current index is 1229
+no file for pat_id ab8c365eb18a77f1 and log_id 5621d393fe680130, current index is 1230
+no file for pat_id 29fde7bdec4094a7 and log_id 50a4511183b87e50, current index is 1231
+no file for pat_id 7be1c5587cbe794e and log_id a5259e7db27cf39f, current index is 1232
+no file for pat_id 4347429ebf3d3821 and log_id ed8ef416068524e6, current index is 1233
+no file for pat_id d18e543bea0bf9a0 and log_id 11274a19ac14cbf1, current index is 1234
+no file for pat_id 248404810bbfc848 and log_id e4aecdf02bbb2d22, current index is 1235
+no file for pat_id 430f218b8b132ebf and log_id 8434d599f2867e3c, current index is 1236
+no file for pat_id bd3335a0d9655bbf and log_id 0af661808a3f3ff1, current index is 1237
+no file for pat_id 518c2adae74dc617 and log_id 070560f9020bcdd0, current index is 1238
+no file for pat_id a991d95632b3efcd and log_id b938714eb87e9b1e, current index is 1239
+no file for pat_id ac7c3acc3d092877 and log_id e4f28db45c338dd7, current index is 1240
+no file for pat_id 7765fbe942f21085 and log_id b94becda00ddde01, current index is 1241
+no file for pat_id 4347429ebf3d3821 and log_id 671d023059879289, current index is 1242
+no file for pat_id 43b0e52b61546ff0 and log_id e0e4bcf2edcce83f, current index is 1243
+no file for pat_id 54a71c33e4c96616 and log_id 4ad4afd80c299360, current index is 1244
+no file for pat_id 0670703254dfd5de and log_id 61517d8c81466b44, current index is 1245
+no file for pat_id 7846725e3d42723c and log_id 2667ac64da437759, current index is 1246
+folder not found for ab05bc2c4cdcf7f0 and pat_id 0d4aa594259f59a5, current index is 1247
+no file for pat_id 23e74a8c74c3ac47 and log_id 9df69363421714e9, current index is 1248
+no file for pat_id 21fb8b053d8a43fe and log_id c403ad8e7271764f, current index is 1249
+no file for pat_id d7aa12415557623e and log_id 8f6b1cbfb4bd78b5, current index is 1250
+no file for pat_id 7ad815cc89c4277c and log_id 4dcb339b8fff43db, current index is 1251
+no file for pat_id 577b2cfd3ee0956a and log_id bc09228312b8f4a8, current index is 1252
+no file for pat_id e70d42524181730f and log_id 3b91d61b25f35985, current index is 1253
+no file for pat_id 29c3ea719389fc15 and log_id 4cb826d8ccf458ab, current index is 1254
+no file for pat_id f30cd826c85f3880 and log_id c152e57270aac6c0, current index is 1255
+no file for pat_id 5ad6eb16684c238d and log_id 670cada81363949a, current index is 1256
+no file for pat_id 7549d924722b3098 and log_id 1435be0bdf670d3e, current index is 1257
+no file for pat_id ef331212aa8ee648 and log_id 33be61712d0e078f, current index is 1258
+no file for pat_id be671c42eec6a0c9 and log_id 597571ea6174ec43, current index is 1259
+no file for pat_id 61995c48a9cb322d and log_id 89c0e4ce4fcf0b4b, current index is 1260
+no file for pat_id fb215e3ca6354263 and log_id 3a675cd451324d0d, current index is 1261
+no file for pat_id e00efb8a47c05959 and log_id 91279f90e858fe36, current index is 1262
+all data have been filtered out for log_id 543a764d27c92946 and pat_id a6c0a9578cc252fa, current index is 1263
+no file for pat_id a4b99d40ce35fe64 and log_id 5b85b5bceb24707e, current index is 1264
+no file for pat_id df7189bdb7332098 and log_id 63febbb8471422ff, current index is 1265
+no file for pat_id dbd82a55dd6f55ab and log_id c0bb6b8ae65a3b74, current index is 1266
+no file for pat_id ebf3b3de34648a3a and log_id a735b4c88417f6ac, current index is 1267
+no file for pat_id 913aa81cb223b525 and log_id 7520174b43754e56, current index is 1268
+no file for pat_id d98b99f0c5170798 and log_id 7da026ef2eae139e, current index is 1269
+no file for pat_id 76f70bb5e34b8614 and log_id 1e67a2a37e113a4b, current index is 1270
+no file for pat_id ab7d9574fec6a0a1 and log_id dc8063284be22dce, current index is 1271
+no file for pat_id e35195c2ae703d47 and log_id 78bb97e2330cc21d, current index is 1272
+no file for pat_id a784b45c7b5b388a and log_id 2fca223a5d5ab451, current index is 1273
+no file for pat_id 21fb8b053d8a43fe and log_id 5f375fe720655844, current index is 1274
+no file for pat_id dac799748cfe1524 and log_id 78c96ab23242d0a7, current index is 1275
+no file for pat_id 8315e25725ce3287 and log_id 12f04bd969db8bd4, current index is 1276
+no file for pat_id 996b0c756ea61d97 and log_id 2c426212c5c4fe91, current index is 1277
+no file for pat_id ee6639e8b34bfa38 and log_id 9c2560a14b6bb3a8, current index is 1278
+no file for pat_id 4de68d01263c7288 and log_id 9c8e11dc2d27a148, current index is 1279
+no file for pat_id e8c81766a3635eab and log_id 43eab1062613ab01, current index is 1280
+no file for pat_id 40a337efad8b37b3 and log_id c63cfd9c952f74c1, current index is 1281
+folder not found for c55483e534877c00 and pat_id 7.42E+15, current index is 1282
+all data have been filtered out for log_id 4943cb15fd4969f1 and pat_id f44c13bfbdf4be05, current index is 1283
+all data have been filtered out for log_id 144122bab7f42259 and pat_id 244c272b3b3fa106, current index is 1284
+no file for pat_id 033c7d20f1101bea and log_id 6da2041f9bdc82d8, current index is 1285
+no file for pat_id f12dce17c92ee10b and log_id 82add89aefe9cf42, current index is 1286
+no file for pat_id af862b7822b6cf74 and log_id 3965eabe9195a49c, current index is 1287
+no file for pat_id bc25ca906588a0fd and log_id f1c6f345739d16cb, current index is 1288
+no file for pat_id a0dc6ff589559ea4 and log_id 7f3d9817864ae45f, current index is 1289
+no file for pat_id 744fd01e2c2fc91a and log_id 6ed7a5c4881a8d20, current index is 1290
+no file for pat_id 2ff0691b915f4269 and log_id ac405f2591b64c3d, current index is 1291
+no file for pat_id f9d864cfa723c306 and log_id ee1a262f48384a5e, current index is 1292
+no file for pat_id 45c75b0e1123927f and log_id eebec2cfab097739, current index is 1293
+no file for pat_id cef6b34d6c66ea60 and log_id 2d8414a2f5484785, current index is 1294
+no file for pat_id f4bbdeaca23e4f16 and log_id cd344bc4805c4aaa, current index is 1295
+no file for pat_id 17eb5d4d1dae5917 and log_id e720f38abc2595f7, current index is 1296
+no file for pat_id c1a9d70df1ab1588 and log_id a9e697f6a222300f, current index is 1297
+no file for pat_id 81a7bc2ef67f9ead and log_id ce567bf01be68475, current index is 1298
+no file for pat_id dce414b05cbcb75e and log_id c003e2b9fcabadf4, current index is 1299
+no file for pat_id 87b464b1067b06b1 and log_id 5c8a66f7ff20529f, current index is 1300
+folder not found for cd2d3e1dbdbd7efb and pat_id 0d7db387dbff9bed, current index is 1301
+no file for pat_id 1d155eb9c625f37e and log_id ce818e7288031a38, current index is 1302
+no file for pat_id 72d237e07e7f6087 and log_id ac34d17b612e8738, current index is 1303
+no file for pat_id 9c02ce882ab2234f and log_id d0364ad89e3c89f0, current index is 1304
+no file for pat_id cb1641199b945751 and log_id ab30354732bfb3e2, current index is 1305
+no file for pat_id d1b1d1c863bd4b22 and log_id 303a352e4a5efb2c, current index is 1306
+no file for pat_id 8b9c952e35811ab9 and log_id e583ade5b1015680, current index is 1307
+no file for pat_id 0b8d44bc11e38bf3 and log_id ba4569c7628af9c7, current index is 1308
+all data have been filtered out for log_id 1a2683bb5f812555 and pat_id bbaa9c83839a0bce, current index is 1309
+no file for pat_id 9295c38703ae20f8 and log_id 3615ed3ba0f2d879, current index is 1310
+no file for pat_id 211e3732d101899b and log_id 9f2c2778cf2e7e79, current index is 1311
+all data have been filtered out for log_id 9e0f0c1467774909 and pat_id 7de644ad9714ef97, current index is 1312
+no file for pat_id 5873f03c0e2495bc and log_id 569096da6cedf1ee, current index is 1313
+no file for pat_id 780f99b4d3231bdb and log_id de73c86e4e6d02f1, current index is 1314
+no file for pat_id 94eca142aed92840 and log_id 5e8d08aa7406ed7b, current index is 1315
+no file for pat_id fa3be001e7ecb16f and log_id d5e50f46952fe10c, current index is 1316
+no file for pat_id 111028dbf5737303 and log_id 835d284db96109c8, current index is 1317
+no file for pat_id 1719152a6684213f and log_id 0d46b6eba396a221, current index is 1318
+no file for pat_id 8fab58729b61d4cf and log_id 8cb6863d2405b779, current index is 1319
+no file for pat_id b86e2bda8a32e79f and log_id eb33ac344500dbf0, current index is 1320
+no file for pat_id 52a92dc1d37be804 and log_id 00cd402635d98736, current index is 1321
+no file for pat_id 12db41031710dedc and log_id 84c492ebfffb69cf, current index is 1322
+no file for pat_id 604a5fc6f0809b5d and log_id 66837fd73194c8cf, current index is 1323
+no file for pat_id a8dc1459cc91409c and log_id ac722e5d04792515, current index is 1324
+no file for pat_id f93912e935ddb57f and log_id 13d21bb0d8dfcd86, current index is 1325
+no file for pat_id 6f616ad32ce4f3a9 and log_id c1ddbd84dce8bef3, current index is 1326
+no file for pat_id 6c8201c780a91b47 and log_id 01f3188ddc19e2a4, current index is 1327
+no file for pat_id bc859e20c27cc85b and log_id b17cf8eaf96f8b11, current index is 1328
+no file for pat_id 611fc9d6181cebf4 and log_id ed25de77d8b5ae50, current index is 1329
+no file for pat_id e3c7e9f0432b2097 and log_id a054a89ae31d4a6c, current index is 1330
+no file for pat_id 017884432914384e and log_id 970bafd2b2adbfb8, current index is 1331
+no file for pat_id c795bc74f905d737 and log_id e3a2adfeff9c6fc5, current index is 1332
+no file for pat_id e5bf240db139cfb2 and log_id a7f7c01a4f1e751f, current index is 1333
+no file for pat_id ddb3575f968d4eaf and log_id 6a842d63ca4ee092, current index is 1334
+all data have been filtered out for log_id 7237ff83c5e46e3e and pat_id aacb629b290bce40, current index is 1335
+no file for pat_id 4fff6f6467d4ff05 and log_id 9dbde218ee0cdd7f, current index is 1336
+no file for pat_id 943810a49492cd38 and log_id 484f0475dc8df429, current index is 1337
+no file for pat_id bb9f014c2634263d and log_id f7ff0e3bd0c2e250, current index is 1338
+no file for pat_id ad4a5bf5d01559b0 and log_id 86b8da62ef20293d, current index is 1339
+no file for pat_id 172b2f29cd1d2be0 and log_id 810351422be03403, current index is 1340
+no file for pat_id 9645843e9b01b255 and log_id 195ba5c54ad50b66, current index is 1341
+folder not found for ce8ff0f38ef78fda and pat_id 0ce34aee0dacbb07, current index is 1342
+no file for pat_id 2d413d9226e6ac83 and log_id 5bb1a6c85d8d80b3, current index is 1343
+no file for pat_id 171440b9bf5d2db7 and log_id fa47368ca75399e5, current index is 1344
+no file for pat_id 8ae12992eee5b6ec and log_id bba69c82ff84f916, current index is 1345
+no file for pat_id ea1f3d9ff5113427 and log_id a92feb10599d85cb, current index is 1346
+no file for pat_id 3c65aacd06ad0b27 and log_id 762d7f6eb04e2b40, current index is 1347
+no file for pat_id 5b678dc7c9352c43 and log_id 64fd8b83d246978a, current index is 1348
+no file for pat_id efcf90322e61c6f1 and log_id 47830e289b269c44, current index is 1349
+no file for pat_id 473900841537e920 and log_id 70c82c138a6616a6, current index is 1350
+no file for pat_id 33b6a8dd56573901 and log_id 2b7ab5a876203555, current index is 1351
+no file for pat_id c179d075366fb534 and log_id de867a0e6acf0e26, current index is 1352
+no file for pat_id 02cf73189212380d and log_id 6d98b14e858aa50d, current index is 1353
+no file for pat_id d5308c4bd1d2d494 and log_id 3441861ca0e8ea53, current index is 1354
+no file for pat_id 2ac3706a90d29aa0 and log_id f3c6d4563f14973f, current index is 1355
+no file for pat_id 4aa9df6db5e03ec5 and log_id 83118d1d090c2a76, current index is 1356
+no file for pat_id 5c697eb0d55dd74c and log_id 547c56f46a9f0c3b, current index is 1357
+no file for pat_id dbcf6837511699ce and log_id 3834c137d507fcb1, current index is 1358
+no file for pat_id 2928ae5fc0c10587 and log_id 6c6508f407c40ac6, current index is 1359
+no file for pat_id 94206c6bfc258826 and log_id 4b45f3de5954f905, current index is 1360
+no file for pat_id b4479eb294310622 and log_id 3ff23f99bba034e2, current index is 1361
+no file for pat_id 67fa32a6a9834f0c and log_id 57cb274d21cf55f8, current index is 1362
+no file for pat_id faab8af5598a44b3 and log_id 81c634e368071bd6, current index is 1363
+no file for pat_id 321cddb432dc143f and log_id 407faa2a87d1c0a4, current index is 1364
+no file for pat_id 7e64059a441f9397 and log_id 8ddc6d06b2281553, current index is 1365
+no file for pat_id 9e6e4e127721775c and log_id aea578ad48f6da19, current index is 1366
+no file for pat_id e0e8ecdab1f8ad15 and log_id 99d369d74ef96ecb, current index is 1367
+no file for pat_id 461c8f69684c02a6 and log_id 7b1fc5ecc32f6fc8, current index is 1368
+no file for pat_id b29cffac8da79d36 and log_id 30f1bb50d975cbd5, current index is 1369
+no file for pat_id 30a466a8bd0d0dd1 and log_id c1d9babf800eb356, current index is 1370
+no file for pat_id 3065a1dd21ca20b5 and log_id a5259dc034e737ac, current index is 1371
+no file for pat_id df6a52fc1c6fef26 and log_id 09a44cc9399a4c4c, current index is 1372
+no file for pat_id 28baeb561b21a7b3 and log_id 324d62966e2e0151, current index is 1373
+no file for pat_id e5bf240db139cfb2 and log_id fb5673dcc3b0417f, current index is 1374
+no file for pat_id 8b4cd6baaca22539 and log_id 57546910ca0947bb, current index is 1375
+no file for pat_id e11d852c2cc74b1b and log_id b558784531fb341a, current index is 1376
+no file for pat_id 299d5b80a98965ff and log_id 841c0a88eaa8e9a9, current index is 1377
+no file for pat_id 993bcc6745261d3a and log_id 3c12859fe1baff63, current index is 1378
+no file for pat_id 57cefbc610341b9e and log_id 8bda850e882cc821, current index is 1379
+no file for pat_id 7d43fc82fc115d2a and log_id 4b271baeed62856b, current index is 1380
+no file for pat_id 11180c4789e070d6 and log_id 6c87cce419dd3046, current index is 1381
+no file for pat_id 7bf6dede53f949fe and log_id 28ca01606dd12a14, current index is 1382
+no file for pat_id a291a4c6a60fc163 and log_id b10b905e7830c016, current index is 1383
+no file for pat_id 6aa7f87eb021fe9b and log_id daba3e1b826c23c9, current index is 1384
+no file for pat_id 78ca041a7debc526 and log_id 8f81ca4742d55d0f, current index is 1385
+no file for pat_id 3c90db37675a2f82 and log_id e6854e6963478126, current index is 1386
+no file for pat_id eefd5e4a83069e48 and log_id 89e23fd127b0a544, current index is 1387
+no file for pat_id 7994bfdb9aa94e8d and log_id f26014827a642207, current index is 1388
+no file for pat_id c66ba17a3a243b65 and log_id 470a708c42b997a2, current index is 1389
+no file for pat_id 189e0aee13edd19f and log_id 24a1b73616a6a06b, current index is 1390
+no file for pat_id fee293accfa07f6c and log_id 47fbdf96f785fea7, current index is 1391
+no file for pat_id 9245876d903fc5c7 and log_id f8e452422cd90b93, current index is 1392
+no file for pat_id 74739ff351bd2cf5 and log_id 378e2886c371800d, current index is 1393
+no file for pat_id 24278156e47493f6 and log_id c049909f5db93218, current index is 1394
+no file for pat_id 4a8677636d9b684a and log_id b1c161d86d363ed9, current index is 1395
+no file for pat_id b5643506a491c7ce and log_id f091f5f52e4f215f, current index is 1396
+no file for pat_id b86e2bda8a32e79f and log_id 84a9fbef603fabce, current index is 1397
+all data have been filtered out for log_id 61d80acce22944d9 and pat_id 1fbb45e493762bda, current index is 1398
+no file for pat_id 3ab095a0d260cc9e and log_id 622a6cddb065011b, current index is 1399
+no file for pat_id 596537726f8f42c2 and log_id f546f23e07202e67, current index is 1400
+no file for pat_id cf28c03dfe4ad86a and log_id 8853f5cccbd75ab9, current index is 1401
+no file for pat_id afebf2e13b4b21d8 and log_id e759f835d5aef6c8, current index is 1402
+no file for pat_id cac4ba397b17610a and log_id ab32c81e4f9239bb, current index is 1403
+no file for pat_id f4053f167fb4795f and log_id 4a20d23bcc374bbe, current index is 1404
+all data have been filtered out for log_id c1e3f5e2ce943a90 and pat_id 584179eeea864fe1, current index is 1405
+no file for pat_id d45eb35624ff25c2 and log_id 6d6dc12589807af2, current index is 1406
+no file for pat_id bb0d58de275002f9 and log_id 093993bb77dcd924, current index is 1407
+no file for pat_id e050280f4947c9a2 and log_id 797da4b49d476aaf, current index is 1408
+no file for pat_id 2d185855a06f46a6 and log_id a0b11c763cb72f04, current index is 1409
+no file for pat_id 6ca01a709b609058 and log_id 06a6a73d87b4fe05, current index is 1410
+no file for pat_id 8379a413415d7866 and log_id e3161438bb013a3f, current index is 1411
+no file for pat_id 509087f10a13fdb7 and log_id a4dbf6b4754f872c, current index is 1412
+no file for pat_id b86ef48304035422 and log_id bb81f8805c3f5190, current index is 1413
+all data have been filtered out for log_id 3ff5555769cd2a1c and pat_id ba9cc1234af1efbe, current index is 1414
+no file for pat_id 2d4f4f5b786ec3fd and log_id 7c9abd5031d8d1b8, current index is 1415
+no file for pat_id 19f8170c429cefe3 and log_id 11a1c8a49db30df8, current index is 1416
+no file for pat_id 2c91dd04595a99ff and log_id 8896d62efb945d76, current index is 1417
+no file for pat_id d404dbe36ae0f20f and log_id 3eb8c926033120d7, current index is 1418
+no file for pat_id 32680930839f5f4e and log_id c9e2f6ccc253f8e1, current index is 1419
+no file for pat_id 1f3c953e314dc991 and log_id eb5d76125a55055d, current index is 1420
+no file for pat_id 65c9ec0c4628bf91 and log_id f10f7a2f24573edc, current index is 1421
+no file for pat_id 2f091eb1b00105d4 and log_id 30a28acdce450730, current index is 1422
+no file for pat_id 1ba74658f1fa5c3c and log_id b5f876a483f971b6, current index is 1423
+no file for pat_id abdc448de7593952 and log_id 560a1df3d9caa8b9, current index is 1424
+no file for pat_id 81abb758fc286ed4 and log_id b58c44e835dd57c2, current index is 1425
+no file for pat_id a31cc5b0af3178ed and log_id 4960f2de22410065, current index is 1426
+all data have been filtered out for log_id ed0e90ba52e77a89 and pat_id 8ecaea7e83f9a4ca, current index is 1427
+no file for pat_id 3805cb640a907295 and log_id a780ca8e0cfdaf57, current index is 1428
+no file for pat_id 51b4f82c34259d09 and log_id 40b7197573a6c5db, current index is 1429
+no file for pat_id 1afe6d5dbc6a185f and log_id a525baae5d950d94, current index is 1430
+no file for pat_id 4cb421b9cec08718 and log_id b9a44743ef004afe, current index is 1431
+no file for pat_id d3321c9e01659969 and log_id d15d296f17da5fc4, current index is 1432
+no file for pat_id 8314d30fa439d90f and log_id 1fcdeb16ec7c93c7, current index is 1433
+folder not found for 99348daae3a70d55 and pat_id 0c4408aa59b84468, current index is 1434
+no file for pat_id 1562f553c80649e2 and log_id d141c00fdb0e3b1a, current index is 1435
+no file for pat_id a465b927d2adae03 and log_id 1905b1bbaba47b00, current index is 1436
+no file for pat_id fa0022e587486db8 and log_id 6ebfb53d0e12b072, current index is 1437
+no file for pat_id 8ed6fcf77e782f51 and log_id 5fac7298e238b03e, current index is 1438
+no file for pat_id 7a244ae5582ccc43 and log_id adb5728afc4c6965, current index is 1439
+no file for pat_id f648f51f8fed3100 and log_id de88397c197c18d9, current index is 1440
+no file for pat_id d3d1c7566255b4f5 and log_id 18f23f90ece4b8a3, current index is 1441
+no file for pat_id d8483708cb93511d and log_id 7d56d3119e4bf15e, current index is 1442
+no file for pat_id 706b427dca3aaaa8 and log_id ac396ec007ecd6fb, current index is 1443
+no file for pat_id fe155e1a1e4d39b3 and log_id 9265f88e69ebbdc2, current index is 1444
+folder not found for b746fe4b3a1d379e and pat_id 0edc8eba5b6ef70a, current index is 1445
+no file for pat_id 4216f52f6cab017a and log_id 22b38fc0f8b07d7f, current index is 1446
+no file for pat_id f62c0fa0c3da5de7 and log_id 26abe61771001b28, current index is 1447
+no file for pat_id 6efe52f56fc0fdce and log_id 8926fbdc2294b684, current index is 1448
+no file for pat_id 74fa6cbfbbc9762a and log_id 2683c43ae55bfa4f, current index is 1449
+no file for pat_id 3b5d1d9012f6dc83 and log_id e0d9104e47e72979, current index is 1450
+no file for pat_id 84de229ab1000d66 and log_id 5087efa5abfae050, current index is 1451
+no file for pat_id 4f3a9a6f8db71474 and log_id 024ec1cf29d94ddb, current index is 1452
+no file for pat_id 5ca1a07fa2630e3f and log_id 495519f2da393aaf, current index is 1453
+no file for pat_id 1f08a7529127f58b and log_id fe4cddb0f8200bf8, current index is 1454
+folder not found for 37374566245ce8cf and pat_id 0c9731a13025cd8f, current index is 1455
+no file for pat_id 35674f07e9d3e483 and log_id 662418cca95ec4e1, current index is 1456
+no file for pat_id c79c3a2d88f026eb and log_id 97d4024ee37d9483, current index is 1457
+no file for pat_id ea1f3d9ff5113427 and log_id 61b24c681bff3085, current index is 1458
+no anesthesia time for log_id a9f0393f53fe6df2 and pat_id 0634ff23d0faa338
+no file for pat_id 7d934130e557a1cc and log_id 7d73c11ceb40f60a, current index is 1460
+folder not found for 57a9e3690c3df8b2 and pat_id 0dfedba53531b9d8, current index is 1461
+no file for pat_id 84374ab957459549 and log_id 7def3b859b78bb12, current index is 1462
+folder not found for 8fc95e1ae94831a5 and pat_id 0c4bad25e50dcfeb, current index is 1463
+no file for pat_id 64448bdde4c1aecf and log_id ee21bb14f47c7fa8, current index is 1464
+no file for pat_id 2656558b9b9eff0e and log_id e0f6361026b544b6, current index is 1465
+no file for pat_id c775fa485dcd41bc and log_id bcfa1b4e76183848, current index is 1466
+all data have been filtered out for log_id 9d3f479d4e4fc5a6 and pat_id b2d49912f23c609b, current index is 1467
+no file for pat_id 5056899bbc8648d4 and log_id 8778f96cbdb6b69b, current index is 1468
+no file for pat_id 2bbe6df4da4c76b4 and log_id 202ed72475d264cf, current index is 1469
+folder not found for 3b7cfa0d07163700 and pat_id 0ce34aee0dacbb07, current index is 1470
+no file for pat_id 6b993923829875f9 and log_id e3830a97f6663750, current index is 1471
+no file for pat_id f285f4350563fdab and log_id 69aea1837c52aef3, current index is 1472
+no file for pat_id 06e61e9e013d7293 and log_id 5e3362231f210f30, current index is 1473
+no file for pat_id c69d19dde8e6cc00 and log_id 2caafd76156a5218, current index is 1474
+no file for pat_id 22701fef7183dd1a and log_id 4f1e954e736f1e8b, current index is 1475
+no file for pat_id 18d9d045360b4f9e and log_id 012721471b0a176d, current index is 1476
+no file for pat_id fe155e1a1e4d39b3 and log_id 911c4ccf149edb64, current index is 1477
+no file for pat_id 5b292f64a537b8e4 and log_id e30ef0fa418bb0c7, current index is 1478
+no file for pat_id e52be48dc314e8f0 and log_id 157ea692b0135eae, current index is 1479
+no file for pat_id 9fd8720cce395a46 and log_id 5a3c7c70ef4e6e6d, current index is 1480
+folder not found for 7fa1b51405925c82 and pat_id 0c6f0711afa7e49a, current index is 1481
+no file for pat_id 6fbf9ff04cda5baf and log_id 93e11241b6012f88, current index is 1482
+no file for pat_id a1dae04e9980552e and log_id 4a373094cd1a50d6, current index is 1483
+no file for pat_id 12525451b12be3c2 and log_id 4e031cf4ef02572a, current index is 1484
+no file for pat_id 07345dd132e1ec88 and log_id c7f2c75bc2acbef9, current index is 1485
+no file for pat_id 3af5dbe0932c11e6 and log_id f44f5dc890b95eab, current index is 1486
+no file for pat_id 9cc136e245719e42 and log_id 8df6ba47076b6c84, current index is 1487
+no file for pat_id 4dcd48c99c6242f6 and log_id 7d81d4c41f0e6b94, current index is 1488
+all data have been filtered out for log_id 14220d68108e4111 and pat_id 73ca2bb17579fd61, current index is 1489
+no file for pat_id a0dc6ff589559ea4 and log_id b170b19f87e2acf6, current index is 1490
+no file for pat_id 5d34046f19657f27 and log_id 8ab386fc1d4cc9a8, current index is 1491
+no file for pat_id cc4b5932586f093d and log_id f96d08ca514429b3, current index is 1492
+no file for pat_id 9378615708c98916 and log_id 1e82bfd07449cffc, current index is 1493
+no file for pat_id ffe1e82f669e95d6 and log_id 7cc2ca201af0fd16, current index is 1494
+no file for pat_id bdc1f1fa3da2cecf and log_id 54d8488d10262f58, current index is 1495
+no file for pat_id 375469025d091c5e and log_id 8636af3b17f424d0, current index is 1496
+no file for pat_id c1e59f67c5094219 and log_id 09588503b5a02bd3, current index is 1497
+no file for pat_id b67d2346b0fd817f and log_id fdbaa6f753c96003, current index is 1498
+no file for pat_id 2be70836f39171b3 and log_id a372121ba9cbc527, current index is 1499
+no file for pat_id 90d6dd141dd14aeb and log_id 9d88ceb951183e06, current index is 1500
+no file for pat_id 1486b2eb483af1d5 and log_id c00aad2c3c9e4a33, current index is 1501
+no file for pat_id a247d3199edabc9f and log_id a159d1e75ce6380b, current index is 1502
+no file for pat_id 9e5b0da05a89cd35 and log_id efd41d9b73efab3c, current index is 1503
+no file for pat_id 3bda68c020ace915 and log_id f6410654edd97e47, current index is 1504
+no file for pat_id 33cb229c7cdf8953 and log_id 6dce8b141c8ba214, current index is 1505
+no file for pat_id 454f0d4815d20205 and log_id c050166e8b27708a, current index is 1506
+no file for pat_id 22c745fb99f2473c and log_id d6e3f3e17615276c, current index is 1507
+no file for pat_id 1aeb8dddcc144fa4 and log_id 784f9feac828dc72, current index is 1508
+no file for pat_id 8e30cf393f425068 and log_id 25d8f7bb2d991542, current index is 1509
+no file for pat_id 87a7ba5eab8ae4aa and log_id 0ec25dc3e89a44b4, current index is 1510
+folder not found for fca5c917d21f51d5 and pat_id 0ea9da69a4de80d5, current index is 1511
+no file for pat_id fdee43850d82ff9b and log_id f137c54240b8a452, current index is 1512
+no file for pat_id 02775f7d2ca3aa0f and log_id 02cf7391b9d9723e, current index is 1513
+no file for pat_id 325db57c726effd3 and log_id f0ad40258cbf9e41, current index is 1514
+all data have been filtered out for log_id 74e994c661dbb7ce and pat_id 1f85b7ae6b14fa57, current index is 1515
+no file for pat_id 528c5114bc1256fc and log_id b309e2dad59021d4, current index is 1516
+no file for pat_id ff0f562e10f65ad7 and log_id 83916c4dc7c51cc4, current index is 1517
+no file for pat_id 9a820ed47316328f and log_id 0c8d974ccb64a43b, current index is 1518
+no file for pat_id 6d4807510df4797b and log_id 5f5364750dd3ca64, current index is 1519
+no file for pat_id 85a0124d27b9b3e8 and log_id 43acd0e84c43732d, current index is 1520
+no file for pat_id dda2dc112d9c6f7a and log_id cb0fc49d69ee1f65, current index is 1521
+no file for pat_id 0939467883c7a969 and log_id 76d30a937f48c5fe, current index is 1522
+all data have been filtered out for log_id 52f1070b12e33cd4 and pat_id 2bdcaf767ee28e12, current index is 1523
+no file for pat_id 5448792c6e4c2233 and log_id b35f2e01c6a7663a, current index is 1524
+no file for pat_id 3e6901609cad05d4 and log_id b93034c3083ade89, current index is 1525
+no file for pat_id 69013cf45ac6aa22 and log_id afac97c6d3e553a9, current index is 1526
+no file for pat_id 392b987fbf4fa543 and log_id 4fd04e8251a99a94, current index is 1527
+no file for pat_id b5f2a7b678977e8d and log_id a1812087b93239cd, current index is 1528
+no file for pat_id e937911bcdc917ea and log_id 8226802f21e754f2, current index is 1529
+no file for pat_id 37b5bedab83e3e2f and log_id 25a208be3183da5a, current index is 1530
+no file for pat_id 7b3ab20926f2d0e7 and log_id f1405df895a66e98, current index is 1531
+no file for pat_id bafea3610d288d75 and log_id f37f3bd9200bc76b, current index is 1532
+no file for pat_id 02f10fe0b634ca6f and log_id 26b0b70d095b9dde, current index is 1533
+no file for pat_id 3bd796e76429bddb and log_id c5d3fbaed12fba7c, current index is 1534
+no file for pat_id 5b2e2f76d7fcc7c0 and log_id f6f26ddea58399db, current index is 1535
+no file for pat_id 191f147b7e00500b and log_id 734ed5c3bc609de4, current index is 1536
+no file for pat_id 46fb606f5a826d16 and log_id 83a76774ac38ee80, current index is 1537
+no file for pat_id 504b70bb4b7e7417 and log_id 2350a15acaf5cca3, current index is 1538
+no file for pat_id 4dcfaec58f0a356a and log_id e5c8fa4650cf6e4e, current index is 1539
+no anesthesia time for log_id d6ae18bf6b6e2dbf and pat_id 2b300bcd468f2622
+all data have been filtered out for log_id 8879a5221644bbf8 and pat_id ad74066f5a8d6fc1, current index is 1541
+no file for pat_id 91c09de77ad24844 and log_id 4a06eaf2453af57b, current index is 1542
+no file for pat_id c976de7b3bcd270e and log_id 25852e1a023d9498, current index is 1543
+no file for pat_id 028a04764e0fc7c1 and log_id d036fe163c62409b, current index is 1544
+no file for pat_id 1ef612a782197f63 and log_id 7ff332cd4a0b8489, current index is 1545
+no file for pat_id e6d75e11fb3ff9cc and log_id 3bd34a89484af0de, current index is 1546
+no file for pat_id 5b5006c8a8ae41d1 and log_id bb68cb6a1e51151f, current index is 1547
+no file for pat_id 8450e41d27eca7b2 and log_id d58c3b0f178b7c3a, current index is 1548
+no file for pat_id 4aaa88eb5a703068 and log_id b2f0bf1f14902bae, current index is 1549
+no file for pat_id 74739ff351bd2cf5 and log_id 3def340a94eb4821, current index is 1550
+no file for pat_id 01139afa3db9effd and log_id 06572a3c8ce44a8b, current index is 1551
+no file for pat_id 626688fed9015c56 and log_id af822a03f9d92e92, current index is 1552
+no file for pat_id 42ba5a6e4f2b7428 and log_id 589a4b969c683ed7, current index is 1553
+no file for pat_id 147c49807b32385b and log_id 42ebbead23d422f5, current index is 1554
+no file for pat_id a3d39f9eb4a1578e and log_id 14bdd5e7d316b784, current index is 1555
+no file for pat_id f95015a26f37b216 and log_id 0f5430c388404ad7, current index is 1556
+no file for pat_id a5841adb2adaa679 and log_id b15e12c5991296f5, current index is 1557
+no file for pat_id 40c4d23d8bb10797 and log_id 54c2df11044973d6, current index is 1558
+no file for pat_id 1422981c3ad9d9aa and log_id 101968e3128ff438, current index is 1559
+no file for pat_id 784aef43bfc78425 and log_id 24209d73fdb50154, current index is 1560
+no file for pat_id 78ca041a7debc526 and log_id a712bed64ea0da81, current index is 1561
+no file for pat_id 054184502f485568 and log_id 9e15bc03075aea6a, current index is 1562
+no file for pat_id deadfb78c4a1e616 and log_id 9a30f73f20a174aa, current index is 1563
+no file for pat_id 3c1ab590cb8c7073 and log_id 9bfb40b973f3727e, current index is 1564
+no file for pat_id 96158c3b1611bbfd and log_id 2f60f935058433bc, current index is 1565
+no file for pat_id a33cc3c5996d4603 and log_id a1dcc36f0a42b857, current index is 1566
+no file for pat_id 504b70bb4b7e7417 and log_id 0c271829c0a2c9c4, current index is 1567
+no file for pat_id b8f852cec7fee369 and log_id a170b09aebb68f67, current index is 1568
+no file for pat_id 63d7d15e71668855 and log_id 632ec5c49d8829a7, current index is 1569
+no file for pat_id 31fc8a72dcac8412 and log_id 4f73da9a14864e7a, current index is 1570
+no file for pat_id f648f51f8fed3100 and log_id 7cb98b95182d38bb, current index is 1571
+no file for pat_id 80b75ba1a31b91a1 and log_id 0d4b7756297612d4, current index is 1572
+no file for pat_id eecc3ed2e0dfae6e and log_id c785d943f9eaa5c8, current index is 1573
+no file for pat_id 8a8cb3d9413b46ce and log_id f90d0904fcf691cf, current index is 1574
+no file for pat_id c53fecc67e8f8f59 and log_id f99f2ad2a61731d0, current index is 1575
+no file for pat_id 67ee967fe98bf6a9 and log_id 4c1ff87f107c7073, current index is 1576
+no file for pat_id cd2e8cf7687377a2 and log_id 75d6b5f38d7a2981, current index is 1577
+no file for pat_id 5c15ea36bf7c63d5 and log_id 9bf2ab7ecc87f305, current index is 1578
+no file for pat_id 5b292f64a537b8e4 and log_id 40c00800768f7089, current index is 1579
+no file for pat_id 82c9834eb9c97a28 and log_id 72cc4838bdca21ca, current index is 1580
+no file for pat_id 9d46afdf10dbb470 and log_id abbdc7a52e2319fc, current index is 1581
+no file for pat_id 554a6e6bebcaec10 and log_id f91359f48d12f657, current index is 1582
+no file for pat_id 23d0712e484e4e3f and log_id 7952f70582aeb295, current index is 1583
+no file for pat_id 896aeeda222b2328 and log_id fa0aa05b470fc22d, current index is 1584
+no file for pat_id a2cb07000e86cf5a and log_id 2e6658e7b49d3d19, current index is 1585
+no file for pat_id 5eeb439054641f2b and log_id c365973d28dd96d8, current index is 1586
+no file for pat_id 3f70d0f51c96fdbf and log_id 4bf1b88934a34ff9, current index is 1587
+no file for pat_id b6af1dd8aebec2d1 and log_id 0678ac051531b010, current index is 1588
+no file for pat_id 326bbad0ed53e995 and log_id 5225f7bdaf4496cf, current index is 1589
+no file for pat_id 73117d338efb8fc4 and log_id dfb62045ccbcda16, current index is 1590
+no file for pat_id 8cc0bf384a43f4b0 and log_id 027478af1cce4878, current index is 1591
+no file for pat_id c52581834f593096 and log_id a01beabb002a6b24, current index is 1592
+no file for pat_id c2dc4b575f458c62 and log_id 14102588fc286d48, current index is 1593
+no file for pat_id f7ea95eeacce1de6 and log_id 3f0721e3e1190345, current index is 1594
+no file for pat_id e0bc4796328b5ee9 and log_id 20590a07b897781b, current index is 1595
+no file for pat_id 94ebd04a4e9aa234 and log_id ea56135a217d9054, current index is 1596
+no file for pat_id 93a775deb1b4ff73 and log_id 3c91718680e4bcc1, current index is 1597
+no file for pat_id a268f955a12b4594 and log_id 798fa108af9e1bf5, current index is 1598
+no file for pat_id 9c0401aac5c1e82e and log_id d397b30aa594c59a, current index is 1599
+no file for pat_id a7da5950b9cfd4cd and log_id 73b71327357c3dc2, current index is 1600
+no file for pat_id f9ecd24ea4882008 and log_id 586b681a1822a032, current index is 1601
+no file for pat_id fa6ec9ad3f5f1466 and log_id 3c146c502e1e249d, current index is 1602
+no file for pat_id 2f091eb1b00105d4 and log_id 3333ade5695c0b55, current index is 1603
